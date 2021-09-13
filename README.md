@@ -1,0 +1,2 @@
+# Gepilatas
+SZE Gépi látás
