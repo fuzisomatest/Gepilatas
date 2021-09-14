@@ -1,2 +1,2 @@
 # Gepilatas
-SZE Gépi látás
+ Kézzel írt karakterek felismerése
